@@ -28,7 +28,10 @@ Hotkey, %setting_key%, show_gui
 +;::Send {+}    ; Shift+; : to +
 '::+vkba        ; ' to :
 +'::Send {*}    ; Shift+' " to *
-
+vkff::Send {\}
++vkff::Send {|}
+vkc1::Send {\}
++vkc1::Send {_}
 
 do_toggle:
     Suspend, Toggle
