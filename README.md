@@ -10,4 +10,4 @@ You can do any of the following.
 | Default key(s) | Description |
 | ---- | ---- |
 | F9 | Toggle remaps. |
-| Ctrl + Alt + F12 | Show the settings window. and generate a ini file if change it. |
+| Ctrl + Alt + F12 | Show the settings window. and generate a ini file if set them. |
